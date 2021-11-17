@@ -3254,5 +3254,13 @@
     "symbol": "WLTC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x53c4871322Bb47e7A24136fce291a6dcC832a294/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x00813e3421e1367353bfe7615c7f7f133c89df74",
+    "name": "Splintershards",
+    "symbol": "SPS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x00813e3421e1367353bfe7615c7f7f133c89df74/logo.png"
   }
 ]
